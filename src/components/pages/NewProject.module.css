@@ -1,0 +1,20 @@
+.newproject_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  align-items: center;
+  margin: 0;
+  padding: 3em;
+}
+
+.newproject_container h1 {
+  margin-bottom: 0.5em;
+}
+.newproject_container div {
+  width: 300px;
+}
+
+.newproject_container p {
+  color: #7b7b7b;
+}
