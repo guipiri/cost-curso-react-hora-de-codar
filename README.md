@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Final project of the youtube channel react course "hora de codar"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts to boot
+## Scripts to boot the project
+
+Before run these scripts, be shure you have Git and Node.js installed.\
 
 In the project directory, you must run in diferents terminals the following scripts:
+
+### `npm install` (install node_modules)
+
+Install the directory 'node_modules' with the packages you will need to run the project.
 
 ### `npm start` (initialize frontend)
 
